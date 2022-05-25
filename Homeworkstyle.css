@@ -1,0 +1,80 @@
+body{
+    background-color: #84cbeb;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #51c63a;
+    margin: 30px;
+    padding: 50px;
+    word-spacing: 2px;
+}
+
+h1{
+    text-align: center;
+}
+
+a:link{ 
+    color: #4acc99;
+}
+
+.rex{
+    text-align: center;
+}
+
+header > h1{
+    font-style: italic;
+    font-family: Kurale, Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+
+.rex > li{
+    display: inline;
+    font-family: Source Sans Pro, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+h1,#sunflower{
+    color: #ffffff;
+}
+
+h2{
+    color: #ffffff;
+    font-size: 35px;
+    font-family: Source Sans Pro, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+section > p{
+    font-family: PT Serif, Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 40px;
+    line-height: 1.5;
+}
+
+img{
+    height: 325px;
+    margin: 25px;
+    float: right;
+}
+
+.bottom{
+    display: inline;
+    font-family: Source Sans Pro, Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.weird{
+    text-align: center;
+    clear: both;
+}
+
+span{
+    color: #808283;
+    font-family: Helvetica, Arial, Sans-Serif;
+    font-size: 20px;
+    height: 10px;
+    width: .5px;
+}
+
